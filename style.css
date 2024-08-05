@@ -1,0 +1,106 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+li{
+    display: inline;
+    padding:60px;
+}
+img{
+    display: inline;
+}
+ul{
+    display:flex;
+    justify-content: space-evenly;
+}
+hr{
+    width: 88%;
+}
+.header{
+    width:100%;
+    height:800px;
+    background: linear-gradient(90deg, rgb(161, 110, 228), hsl(239, 74%, 60%));
+    color:white;
+}
+select{
+    height: 35px;
+    position: relative;
+    top:50px;
+    right:15px;
+    background: hsl(239, 74%, 60%) ;
+    color:white;
+    border:white solid 2px;
+    border-radius: 5px;
+    padding:5px;
+}
+img{
+    border-radius: 50%;
+    width:125px;
+    padding: 10px;
+}
+.hdr2{
+    display: flex;
+    position: relative;
+    left:90px;
+    margin:10px;
+}
+p{
+    margin:35px;
+}
+h1{
+    color:white;
+    position: relative;
+    bottom: 250px;
+    font-weight: 400;
+}
+.para p{
+    color:white;
+    position: relative;
+    bottom:260px;
+}
+.para{
+    position: relative;
+    bottom:250px;
+}
+.upload button{
+        background: linear-gradient(90deg, rgb(161, 110, 228), hsl(239, 74%, 60%));
+        color:white;
+        width:80px;
+        height:25px;
+        position: relative;
+        bottom:25px;
+        border-radius: 5px;
+        
+}
+.upload{
+    background-color:#def3ff;
+    width:60%;
+    color:hwb(239 15% 20%) hwb(239 15% 20%);
+    padding:5px;
+    height:80px;
+    border: #524b4b dashed 2px;
+    border-radius:10px;
+}
+.upload p button{
+    transform: translateY(10px);
+   
+}
+.container{
+    width:180px;
+}
+table td{
+    padding:25px;
+   
+}
+form{
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    bottom:450px;
+    width:50%;
+    box-shadow:0 4px 16px rgba(0,0,0,0.1);
+    height:1200px;
+}
+td{
+    padding-left: 0px;
+}
+
